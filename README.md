@@ -6,3 +6,6 @@ Bamazon is an Amazon-like storefront node application using MySQL. The app takes
 ## User Input
 node index.js <br/>
 The user will then be prompted to input the product ID and the quantity they want to purchase.
+
+## Live Demo
+[Link to Video of Demo](./homework_11.webm)
